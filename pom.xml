@@ -49,7 +49,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:nataliato/sfg-pet-clinic.git</developerConnection>
-
     <tag>HEAD</tag>
   </scm>
 

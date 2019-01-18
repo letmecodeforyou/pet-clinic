@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nt</groupId>
-    <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <artifactId>pet-clinic</artifactId>
+    <version>0.0.3-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>

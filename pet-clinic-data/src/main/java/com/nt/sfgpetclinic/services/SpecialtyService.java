@@ -2,5 +2,5 @@ package com.nt.sfgpetclinic.services;
 
 import com.nt.sfgpetclinic.model.Specialty;
 
-public interface SpecialtiesService extends CrudService<Specialty, Long> {
+public interface SpecialtyService extends CrudService<Specialty, Long> {
 }
